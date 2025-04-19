@@ -46,3 +46,11 @@ Save all three files in the same directory
 Open the HTML file in a browser
 
 '''The app is clean, well-organized, and follows all your requirements. The code is also structured in a way that makes it easy to maintain and extend with additional features if needed.'''
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Geetha-005/BSIP2/blob/main/Screenshot%20(67).png)
+
+![App Screenshot](https://github.com/Geetha-005/BSIP2/blob/main/Screenshot%20(68).png)
+
