@@ -2,7 +2,7 @@
 # BucketStudy intern tasks
 
 
-# This weather application includes all the features you requested:
+# This weather application includes all the features that mentioned in the guidelines:
 
 # Styled Weather Display
 
